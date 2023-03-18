@@ -8,4 +8,4 @@ height = float(input("Enter your height: "))
 
 bmi = round(weight / (height**2),2) 
 
-print("Your BMI is " + str(bmi))
+print("Your BMI is {}".format(bmi))
