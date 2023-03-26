@@ -40,7 +40,6 @@ with open(users_history, 'a') as data_file:
     else:
         print("You haven't entered the right operator!")
 
-# read_data = open(users_history, 'r')
-# print(read_data.read())
+
 
 
