@@ -1,5 +1,5 @@
 # File name: bmi_cal.py
-# Purpose: Calculate BMI( Body Mass Index )
+# A program that calculate BMI( Body Mass Index )
 
 while True:
     try:
